@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CINES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- fragment Information -->
+    <string name="title_info">Cines</string>
+    <string name="description_info">El cine, mejor conocido como la cinematografía, es una técnica y un arte que consiste en la captura, montaje y proyección de fotogramas de manera rápida y sucesiva. El resultado es la ilusión de una imagen en movimiento. El cine emplea la tecnología fotográfica para crear la sensación del movimiento.</string>
+
+    <!-- fragment Camera -->
+    <string name="btn_camera">Tomar Foto</string>
+
+</resources>
